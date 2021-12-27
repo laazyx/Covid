@@ -4,3 +4,4 @@ pandas
 bs4
 streamlit
 altair
+matplotlib
